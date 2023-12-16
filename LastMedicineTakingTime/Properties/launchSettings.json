@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LastMedicineTakingTime": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\softw\\OneDrive\\桌面\\吃藥紀錄.txt\""
+    }
+  }
+}
